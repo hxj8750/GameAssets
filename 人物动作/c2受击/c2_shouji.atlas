@@ -1,0 +1,90 @@
+
+C2.png
+size: 1152,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clothes back
+  rotate: true
+  xy: 548, 21
+  size: 120, 264
+  orig: 120, 264
+  offset: 0, 0
+  index: -1
+arm L
+  rotate: true
+  xy: 646, 321
+  size: 99, 384
+  orig: 101, 384
+  offset: 1, 0
+  index: -1
+arm R
+  rotate: true
+  xy: 646, 422
+  size: 127, 374
+  orig: 127, 375
+  offset: 0, 1
+  index: -1
+belt
+  rotate: false
+  xy: 2, 2
+  size: 208, 76
+  orig: 208, 76
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: true
+  xy: 2, 80
+  size: 281, 544
+  orig: 281, 557
+  offset: 0, 13
+  index: -1
+hair L
+  rotate: true
+  xy: 212, 15
+  size: 63, 118
+  orig: 63, 120
+  offset: 0, 2
+  index: -1
+hair R
+  rotate: true
+  xy: 332, 32
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: true
+  xy: 814, 5
+  size: 136, 180
+  orig: 137, 180
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 996, 15
+  size: 126, 150
+  orig: 127, 153
+  offset: 1, 2
+  index: -1
+leg L
+  rotate: true
+  xy: 2, 363
+  size: 186, 642
+  orig: 187, 642
+  offset: 1, 0
+  index: -1
+leg R
+  rotate: true
+  xy: 548, 143
+  size: 176, 585
+  orig: 177, 585
+  offset: 1, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1022, 459
+  size: 90, 128
+  orig: 96, 129
+  offset: 1, 1
+  index: -1
